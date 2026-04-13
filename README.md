@@ -35,7 +35,7 @@ This dashboard provides an overview of donation trends, campaign performance, an
 ## Conclusion
 This analysis highlights that while total donations are strong, donor retention remains low. Improving repeat donor engagement and focusing on high-performing campaigns can help increase long-term fundraising success.
 
-## SKills Demonstrated
+## Skills Demonstrated
 - Data analysis using SQL
 - Aggregation and grouping (SUM, COUNT, CASE WHEN)
 - Business insight generation
