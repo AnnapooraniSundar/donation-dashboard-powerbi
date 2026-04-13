@@ -16,13 +16,14 @@ The dataset contains donor-level information including demographics, donation am
 
 ## Dashboard overview
 <img width="1977" height="1116" alt="image" src="https://github.com/user-attachments/assets/e5b698b3-daf3-48ec-9fd7-d783789e1ee2" />
+This dashboard provides an overview of donation trends, campaign performance, and donor behavior.
 
 ## Key Insights
 1. Donations peaked in 2024, indicating a strong performance period compared to other years.
 
 2. The "Defend the Great Apes" campaign generated the highest total donations, making it the most successful fundraising campaign.
 
-3. One-time donors contributed the majority of total donations, highlighting low donor retention and an opportunity to improve repeat engagement.
+3. One-time donors contribute the majority of total donations, highlighting low donor retention and an opportunity to improve repeat engagement.
 
 4. Monthly donations generated higher value per transaction, despite fewer overall contributions, indicating stronger individual commitment.
 
