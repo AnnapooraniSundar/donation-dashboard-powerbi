@@ -41,3 +41,8 @@ This analysis highlights that while total donations are strong, donor retention 
 - Business insight generation
 - Dashboard design in Power BI
 - Data storytelling and visualization
+
+## Recommendations
+- Focus on improving donor retention strategies to convert one-time donors into repeat contributors.
+- Prioritize high-performing campaigns such as “Defend the Great Apes” for future fundraising efforts.
+- Optimize monthly donation programs to increase recurring revenue.
