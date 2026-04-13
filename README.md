@@ -14,6 +14,9 @@ The dataset contains donor-level information including demographics, donation am
 - SQL (SQLite) — data exploration and analysis
 - Power BI — dashboard creation and visualization
 
+## SQL Queries
+The SQL queries used for data analysis are available in the `queries.sql` file.
+
 ## Dashboard overview
 <img width="1977" height="1116" alt="image" src="https://github.com/user-attachments/assets/e5b698b3-daf3-48ec-9fd7-d783789e1ee2" />
 This dashboard provides an overview of donation trends, campaign performance, and donor behavior.
