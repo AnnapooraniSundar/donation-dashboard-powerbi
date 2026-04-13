@@ -1,6 +1,8 @@
 # Title
 Donation Performance Dashboard (SQL + Power BI Project)
 
+**Project Type:** Data Analysis & Visualization  
+
 ## Short Description
 This project analyzes donation data to understand campaign performance, donor behavior, and overall fundraising trends. The analysis was performed using SQL, and the insights were visualized using a Power BI dashboard.
 
